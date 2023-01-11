@@ -1,1 +1,1 @@
-# nextjs-ssr-redux-toolkit
+# Next.js(SSR) ile Redux Toolkit Kurulumu
